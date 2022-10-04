@@ -1,0 +1,7 @@
+﻿{
+  "name": "io.devdog.lospro.demos",
+  "references": [
+    "io.devdog.lospro",
+    "io.devdog.general"
+  ]
+}
