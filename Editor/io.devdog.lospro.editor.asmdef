@@ -1,0 +1,20 @@
+{
+    "name": "io.devdog.lospro.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7a8532f038214420bc65401f99f85e59",
+        "GUID:f6134785714da4c18bc42da43689dd91",
+        "GUID:8917212f15cc4599a21656eb7158695b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
